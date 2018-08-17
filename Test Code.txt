@@ -6,3 +6,5 @@ a + b + c
 a*b
 b*c
 a*c
+
+a*b+c-d^23 - 345
